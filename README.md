@@ -7,13 +7,14 @@ In this project,  we address two aspects of musical signal processing: the extra
    git clone https://github.com/<your-username>/Signal-Processing-Synthesizer.git
 
 ## Project Structure
-.
-├── File.wav                 # Example audio files provided for testing
-├── File.mid                 # Example MIDI files for synthesis comparison
-├── hammer_noise.npy         # Noise of a hammer hitting strings for accurate synthesis
-├── requirements.txt         # Python dependencies for the project
+```
+├── File.wav                # Example audio files provided for testing
+├── File.mid                # Example MIDI files for synthesis comparison
+├── hammer_noise.npy        # Noise of a hammer hitting strings for accurate synthesis
+├── requirements.txt        # Python dependencies for the project
 ├── synthesizer_project.ipynb # Jupyter Notebook with the implementation
-└── README.md                # Project documentation
+└── README.md               # Project documentation
+```
 
 ## 📝 Project Workflow
 1. Automatic Onset Detection
